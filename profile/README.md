@@ -2,7 +2,7 @@
 
 Welcome to PullHero, a suite of AI-driven tools designed
 to enhance your development workflow by automating code improvements,
-code reviews, and documentation generation.
+code reviews, general inquires about the source code, and documentation generation.
 
 This project mission is to streamline your coding processes,
 allowing you to focus on building great software.
@@ -19,6 +19,8 @@ generate comprehensive documentation from your codebase, ensuring accuracy and c
 - **Automated Code Improvements**: Receive intelligent code suggestions
 and improvements to enhance code quality and maintainability.
 
+- **Know-it-all about your repositories**:  Get fast, accurate, and smart answers about your code base.
+
 ## Repositories
 
 - [pullhero/review](https://github.com/pullhero/review): Contains the code and resources for the automated code review tool.
@@ -26,6 +28,8 @@ and improvements to enhance code quality and maintainability.
 - [pullhero/document](https://github.com/pullhero/document): Houses the automated documentation generation tool.
 
 - [pullhero/code](https://github.com/pullhero/code): Houses the automated code improvement tool.
+
+- [pullhero/consult](https://github.com/pullhero/consult): Houses the automated consulting agent.
 
 ## GitHub Actions in the Marketplace
 
@@ -37,5 +41,7 @@ Actions in the GitHub Marketplace, making integration into your workflows seamle
 - **PullHero Code**: AI-Powered Code Improvements Agentic Creator [View on GitHub Marketplace](https://github.com/marketplace/actions/pullhero-code).
 
 - **PullHero Review**: AI-Powered Agentic Code Reviews [View on GitHub Marketplace](https://github.com/marketplace/actions/pullhero-review).
+
+- **PullHero Consult**: AI-Powered Consulting Agent [View on GitHub Marketplace](https://github.com/marketplace/actions/pullhero-consult).
 
 **To integrate PullHero into your projects go to the marketplace and integrate them directly in your workflows.**
